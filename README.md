@@ -1,7 +1,3 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+# THIS IS THE FIRST LEVEL
+## THIS IS THE 2ND LEVEL
+## IM ON THE 2ND LEVEL TOO
