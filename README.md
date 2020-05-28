@@ -1,6 +1,7 @@
 # This is a repo to learn how to become a git ninja
 
-this is a simple website project for showing how to use Git like a pro
+this is a simple website project for showing how to use Git like a pro.
+Adding more text here
 
 ## Random files to play with
 
